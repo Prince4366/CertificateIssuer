@@ -25,4 +25,4 @@ Our goal is to enable a decentralized, immutable, and transparent system for aca
 0xbfb8909a08f50bc3489b0c96d0cc988064dcd3f61c8eb80ce81d5974deb900e8
 
 ## 📷 Screenshot
-_IMG_20250619_142641.jpg
+IMG_20250619_142641.jpg
